@@ -1,0 +1,29 @@
+C:\Users\vanvlim422\AppData\Local\Temporary Projects\8 Follow Mouse Shooting Gallery Demo\bin\Debug\8 Follow Mouse Shooting Gallery Demo.exe
+C:\Users\vanvlim422\AppData\Local\Temporary Projects\8 Follow Mouse Shooting Gallery Demo\bin\Debug\8 Follow Mouse Shooting Gallery Demo.pdb
+C:\Users\vanvlim422\AppData\Local\Temporary Projects\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\_8_Follow_Mouse_Shooting_Gallery_Demo.Form1.resources
+C:\Users\vanvlim422\AppData\Local\Temporary Projects\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\_8_Follow_Mouse_Shooting_Gallery_Demo.Properties.Resources.resources
+C:\Users\vanvlim422\AppData\Local\Temporary Projects\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\8 Follow Mouse Shooting Gallery Demo.csproj.GenerateResource.Cache
+C:\Users\vanvlim422\AppData\Local\Temporary Projects\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\8 Follow Mouse Shooting Gallery Demo.exe
+C:\Users\vanvlim422\AppData\Local\Temporary Projects\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\8 Follow Mouse Shooting Gallery Demo.pdb
+H:\ICS4U\9 Project\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\8 Follow Mouse Shooting Gallery Demo.exe
+H:\ICS4U\9 Project\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\8 Follow Mouse Shooting Gallery Demo.pdb
+H:\ICS4U\9 Project\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\bin\Debug\8 Follow Mouse Shooting Gallery Demo.exe
+H:\ICS4U\9 Project\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\bin\Debug\8 Follow Mouse Shooting Gallery Demo.pdb
+H:\ICS4U\9 Project\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\_8_Follow_Mouse_Shooting_Gallery_Demo.Form1.resources
+H:\ICS4U\9 Project\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\_8_Follow_Mouse_Shooting_Gallery_Demo.Properties.Resources.resources
+H:\ICS4U\9 Project\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\8 Follow Mouse Shooting Gallery Demo.csproj.GenerateResource.Cache
+F:\Grade 11\Programming\9 Project\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\8 Follow Mouse Shooting Gallery Demo.exe
+F:\Grade 11\Programming\9 Project\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\8 Follow Mouse Shooting Gallery Demo.pdb
+F:\Grade 11\Programming\9 Project\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\_8_Follow_Mouse_Shooting_Gallery_Demo.Form1.resources
+F:\Grade 11\Programming\9 Project\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\_8_Follow_Mouse_Shooting_Gallery_Demo.Properties.Resources.resources
+F:\Grade 11\Programming\9 Project\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\8 Follow Mouse Shooting Gallery Demo.csproj.GenerateResource.Cache
+H:\ICS4U\9 Project\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\8 Follow Mouse Shooting Gallery Demo.csprojResolveAssemblyReference.cache
+D:\Documents\Grade 11\Programming\9 Project Trials\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\bin\Debug\8 Follow Mouse Shooting Gallery Demo.exe
+D:\Documents\Grade 11\Programming\9 Project Trials\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\bin\Debug\8 Follow Mouse Shooting Gallery Demo.pdb
+D:\Documents\Grade 11\Programming\9 Project Trials\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\8 Follow Mouse Shooting Gallery Demo.csprojAssemblyReference.cache
+D:\Documents\Grade 11\Programming\9 Project Trials\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\_8_Follow_Mouse_Shooting_Gallery_Demo.Form1.resources
+D:\Documents\Grade 11\Programming\9 Project Trials\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\_8_Follow_Mouse_Shooting_Gallery_Demo.Properties.Resources.resources
+D:\Documents\Grade 11\Programming\9 Project Trials\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\8 Follow Mouse Shooting Gallery Demo.csproj.GenerateResource.cache
+D:\Documents\Grade 11\Programming\9 Project Trials\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\8 Follow Mouse Shooting Gallery Demo.csproj.CoreCompileInputs.cache
+D:\Documents\Grade 11\Programming\9 Project Trials\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\8 Follow Mouse Shooting Gallery Demo.exe
+D:\Documents\Grade 11\Programming\9 Project Trials\Demos\8 Follow Mouse Shooting Gallery Demo\8 Follow Mouse Shooting Gallery Demo\obj\x86\Debug\8 Follow Mouse Shooting Gallery Demo.pdb
